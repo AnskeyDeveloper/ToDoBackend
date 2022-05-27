@@ -1,0 +1,17 @@
+// console.log(req.body);
+    // res.send("Success");
+
+    // console.log(req.body); // Print the Request-Body in console
+    // const user = User(req.body); // import (req.body) from User Schema into user-variable
+    // user.save() // this function will save (store) the data into the batabase
+    // res.send(req.body); // Server responsed to clint : send the data in response
+
+    // Creating a obj and pass it in response
+    // obj = {
+    //     name: 'bvs',
+    //     chennele: 'bvscode',
+    //     msg: 'bvsRocks',
+    //     num: 5050
+    // }
+
+    // res.json([]) // passing an json obj in response
